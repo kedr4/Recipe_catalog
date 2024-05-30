@@ -1,0 +1,4 @@
+[21-Apr-2024 21:27:43 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\ProfileController as ProfileController because the name is already in use in C:\MySite\routes\web.php on line 7
+[05-May-2024 13:50:51 UTC] PHP Fatal error:  Cannot declare class App\Models\ClickCounters, because the name is already in use in C:\MySite\app\Models\ClickCounter.php on line 8
+[05-May-2024 13:52:15 UTC] PHP Fatal error:  Cannot declare class App\Models\ClickCounterphp, because the name is already in use in C:\MySite\app\Models\ClickCounter.php on line 8
+[28-May-2024 06:45:15 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\MySite\app\Http\Controllers\RecipeController.php on line 47
